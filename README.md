@@ -21,3 +21,8 @@ Este projeto é um simples **Gerador de QR Code**, desenvolvido como parte do cu
 2. Abra o arquivo `index.html` em seu navegador para visualizar o projeto.
 3. Insira uma URL ou texto no campo de entrada.
 4. Clique no botão **Gerar QR Code** para gerar o QR Code correspondente.
+
+## Acesse o Projeto Online
+
+Você pode acessar o projeto diretamente online em:  
+[projeto-gerador-qrcode](https://projeto-gerador-qrcode.vercel.app)
